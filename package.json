@@ -1,0 +1,13 @@
+{
+  "name": "cicd-studies",
+  "version": "1.0.1",
+  "description": "A construction of a pipeline for CI/CD studies",
+
+  "scripts": {
+    "test": "jest"
+  },
+
+  "devDependencies": {
+    "jest": "^30.0.5"
+  }
+}

@@ -1,2 +1,2 @@
-# git-pratica-atualizado
-## Este é um repositório de prática de Git
+# git-pratica
+## Atualizado 25-08-2025
